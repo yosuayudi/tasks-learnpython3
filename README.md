@@ -1,0 +1,1 @@
+This is repository for tasks list from Training Basic Python3 - PT Dinartechshare-e
